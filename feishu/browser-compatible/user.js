@@ -9,8 +9,8 @@
 // @match        https://*.feishu.cn/wiki/*
 // @icon         https://www.feishu.cn/favicon.ico
 // @license      MIT
-// @downloadURL https://raw.githubusercontent.com/ybbapp/userscript/feishu/browser-compatible/user.js
-// @updateURL https://raw.githubusercontent.com/ybbapp/userscript/feishu/browser-compatible/user.js
+// @downloadURL https://github.com/ybbapp/userscript/raw/refs/heads/main/feishu/browser-compatible/user.js
+// @updateURL https://github.com/ybbapp/userscript/raw/refs/heads/main/feishu/browser-compatible/user.js
 // ==/UserScript==
 
 (function() {
